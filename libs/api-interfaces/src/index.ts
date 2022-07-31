@@ -1,1 +1,1 @@
-export * from './lib/api-interfaces';
+export { Message, User, Kicker } from './lib/api-interfaces';
